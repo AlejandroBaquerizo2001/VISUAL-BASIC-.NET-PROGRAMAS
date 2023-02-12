@@ -1,0 +1,17 @@
+C:\Users\aleja\source\repos\vb ejercicio\bin\Debug\net6.0-windows\vb ejercicio.exe
+C:\Users\aleja\source\repos\vb ejercicio\bin\Debug\net6.0-windows\vb ejercicio.deps.json
+C:\Users\aleja\source\repos\vb ejercicio\bin\Debug\net6.0-windows\vb ejercicio.runtimeconfig.json
+C:\Users\aleja\source\repos\vb ejercicio\bin\Debug\net6.0-windows\vb ejercicio.dll
+C:\Users\aleja\source\repos\vb ejercicio\bin\Debug\net6.0-windows\vb ejercicio.pdb
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.vbproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb_ejercicio.Form1.resources
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.vbproj.GenerateResource.cache
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.AssemblyInfo.vb
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.vbproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.dll
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\refint\vb ejercicio.dll
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.pdb
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\vb ejercicio.genruntimeconfig.cache
+C:\Users\aleja\source\repos\vb ejercicio\obj\Debug\net6.0-windows\ref\vb ejercicio.dll
