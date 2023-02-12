@@ -1,0 +1,17 @@
+C:\Users\aleja\source\repos\Estructura_Case\bin\Debug\net6.0-windows\Estructura_Case.exe
+C:\Users\aleja\source\repos\Estructura_Case\bin\Debug\net6.0-windows\Estructura_Case.deps.json
+C:\Users\aleja\source\repos\Estructura_Case\bin\Debug\net6.0-windows\Estructura_Case.runtimeconfig.json
+C:\Users\aleja\source\repos\Estructura_Case\bin\Debug\net6.0-windows\Estructura_Case.dll
+C:\Users\aleja\source\repos\Estructura_Case\bin\Debug\net6.0-windows\Estructura_Case.pdb
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.vbproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.Form1.resources
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.vbproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.AssemblyInfo.vb
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.vbproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.dll
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\refint\Estructura_Case.dll
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.pdb
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\Estructura_Case.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Estructura_Case\obj\Debug\net6.0-windows\ref\Estructura_Case.dll
