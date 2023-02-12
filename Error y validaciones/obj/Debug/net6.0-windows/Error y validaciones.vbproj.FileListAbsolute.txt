@@ -1,0 +1,17 @@
+C:\Users\aleja\source\repos\Error y validaciones\bin\Debug\net6.0-windows\Error y validaciones.exe
+C:\Users\aleja\source\repos\Error y validaciones\bin\Debug\net6.0-windows\Error y validaciones.deps.json
+C:\Users\aleja\source\repos\Error y validaciones\bin\Debug\net6.0-windows\Error y validaciones.runtimeconfig.json
+C:\Users\aleja\source\repos\Error y validaciones\bin\Debug\net6.0-windows\Error y validaciones.dll
+C:\Users\aleja\source\repos\Error y validaciones\bin\Debug\net6.0-windows\Error y validaciones.pdb
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.vbproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error_y_validaciones.Form1.resources
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.vbproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.AssemblyInfo.vb
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.vbproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.dll
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\refint\Error y validaciones.dll
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.pdb
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\Error y validaciones.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Error y validaciones\obj\Debug\net6.0-windows\ref\Error y validaciones.dll
