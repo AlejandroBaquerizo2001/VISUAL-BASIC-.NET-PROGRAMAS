@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "calculadora", "calculadora.vbproj", "{8EE8A5DF-70BF-42DC-8338-123013D90A86}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Control_Timer", "..\Control_Timer\Control_Timer.vbproj", "{E6A1EFDE-0459-483D-AD4F-70C6450AEBFA}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Error y validaciones", "..\Error y validaciones\Error y validaciones.vbproj", "{FAD57C86-4A88-4437-B306-779029544A47}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Megabox y Imputbox", "..\Megabox y Imputbox\Megabox y Imputbox.vbproj", "{85A1ED1B-92F2-4227-838B-0F0D924A80A2}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Estructura_Case", "..\Estructura_Case\Estructura_Case.vbproj", "{9DCF5DAE-FE14-4FDA-8D5E-9728E1629299}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "vb ejercicio", "..\vb ejercicio\vb ejercicio.vbproj", "{D0A4080D-C43B-4240-828D-FED4A2B0F1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE8A5DF-70BF-42DC-8338-123013D90A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE8A5DF-70BF-42DC-8338-123013D90A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE8A5DF-70BF-42DC-8338-123013D90A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE8A5DF-70BF-42DC-8338-123013D90A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A1EFDE-0459-483D-AD4F-70C6450AEBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A1EFDE-0459-483D-AD4F-70C6450AEBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A1EFDE-0459-483D-AD4F-70C6450AEBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A1EFDE-0459-483D-AD4F-70C6450AEBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD57C86-4A88-4437-B306-779029544A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD57C86-4A88-4437-B306-779029544A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD57C86-4A88-4437-B306-779029544A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD57C86-4A88-4437-B306-779029544A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A1ED1B-92F2-4227-838B-0F0D924A80A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A1ED1B-92F2-4227-838B-0F0D924A80A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A1ED1B-92F2-4227-838B-0F0D924A80A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A1ED1B-92F2-4227-838B-0F0D924A80A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCF5DAE-FE14-4FDA-8D5E-9728E1629299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCF5DAE-FE14-4FDA-8D5E-9728E1629299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCF5DAE-FE14-4FDA-8D5E-9728E1629299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCF5DAE-FE14-4FDA-8D5E-9728E1629299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A4080D-C43B-4240-828D-FED4A2B0F1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A4080D-C43B-4240-828D-FED4A2B0F1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A4080D-C43B-4240-828D-FED4A2B0F1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A4080D-C43B-4240-828D-FED4A2B0F1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6880ED85-C40E-44C7-8661-AEA7879C94BA}
+	EndGlobalSection
+EndGlobal
