@@ -1,0 +1,17 @@
+C:\Users\aleja\source\repos\Megabox y Imputbox\bin\Debug\net6.0-windows\Megabox y Imputbox.exe
+C:\Users\aleja\source\repos\Megabox y Imputbox\bin\Debug\net6.0-windows\Megabox y Imputbox.deps.json
+C:\Users\aleja\source\repos\Megabox y Imputbox\bin\Debug\net6.0-windows\Megabox y Imputbox.runtimeconfig.json
+C:\Users\aleja\source\repos\Megabox y Imputbox\bin\Debug\net6.0-windows\Megabox y Imputbox.dll
+C:\Users\aleja\source\repos\Megabox y Imputbox\bin\Debug\net6.0-windows\Megabox y Imputbox.pdb
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.vbproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox_y_Imputbox.Form1.resources
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.vbproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.AssemblyInfo.vb
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.vbproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.dll
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\refint\Megabox y Imputbox.dll
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.pdb
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\Megabox y Imputbox.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Megabox y Imputbox\obj\Debug\net6.0-windows\ref\Megabox y Imputbox.dll
